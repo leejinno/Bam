@@ -1,0 +1,13 @@
+main {
+    /* position:absolute; */
+    text-align:center;
+    font-size: 18px;
+}
+
+main img {
+    width: 1000px;
+}
+
+main .text {
+    text-align:center;
+}
